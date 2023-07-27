@@ -1,6 +1,5 @@
 <?php
 
-namespace softcoderselements\WidgetsManager\Widgets;
 
 use Elementor\Controls_Manager;
 use Elementor\Group_Control_Typography;
